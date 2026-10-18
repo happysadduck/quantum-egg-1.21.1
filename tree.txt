@@ -1,0 +1,117 @@
+.
+├── LICENSE
+├── README.md
+├── bin
+│   ├── client
+│   │   └── com
+│   │       └── happysadduck
+│   │           └── quantumegg
+│   │               └── client
+│   │                   └── quantum_egg_client_t.class
+│   └── main
+│       ├── assets
+│       │   └── quantum_egg
+│       │       ├── icon.png
+│       │       └── lang
+│       │           └── zh_cn.json
+│       ├── com
+│       │   └── happysadduck
+│       │       └── quantumegg
+│       │           ├── mod_blocks_t.class
+│       │           ├── mod_items_t.class
+│       │           └── quantum_egg_mod_t.class
+│       └── fabric.mod.json
+├── build.gradle
+├── doc
+│   └── 1.0.0.md
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradle.properties
+├── gradlew
+├── gradlew.bat
+├── run
+│   ├── config
+│   │   └── fabric
+│   │       └── indigo-renderer.properties
+│   ├── data
+│   │   └── fabricDefaultResourcePacks.dat
+│   ├── downloads
+│   │   └── log.json
+│   ├── logs
+│   │   ├── 2026-09-21-1.log.gz
+│   │   ├── debug-1.log.gz
+│   │   ├── debug.log
+│   │   ├── latest.log
+│   │   └── telemetry
+│   ├── mods
+│   ├── options.txt
+│   ├── resourcepacks
+│   ├── resources
+│   ├── saves
+│   │   └── test
+│   │       ├── DIM-1
+│   │       │   └── data
+│   │       │       └── raids.dat
+│   │       ├── DIM1
+│   │       │   └── data
+│   │       │       └── raids_end.dat
+│   │       ├── advancements
+│   │       │   └── 1c207d49-b6d4-301f-bf62-f591002e4f1a.json
+│   │       ├── data
+│   │       │   ├── raids.dat
+│   │       │   └── random_sequences.dat
+│   │       ├── datapacks
+│   │       ├── entities
+│   │       │   ├── r.-1.-1.mca
+│   │       │   ├── r.-1.0.mca
+│   │       │   ├── r.0.-1.mca
+│   │       │   └── r.0.0.mca
+│   │       ├── icon.png
+│   │       ├── level.dat
+│   │       ├── level.dat_old
+│   │       ├── playerdata
+│   │       │   ├── 1c207d49-b6d4-301f-bf62-f591002e4f1a.dat
+│   │       │   └── 1c207d49-b6d4-301f-bf62-f591002e4f1a.dat_old
+│   │       ├── poi
+│   │       │   ├── r.-1.-1.mca
+│   │       │   ├── r.0.-1.mca
+│   │       │   └── r.0.0.mca
+│   │       ├── region
+│   │       │   ├── r.-1.-1.mca
+│   │       │   ├── r.-1.0.mca
+│   │       │   ├── r.0.-1.mca
+│   │       │   └── r.0.0.mca
+│   │       ├── session.lock
+│   │       └── stats
+│   │           └── 1c207d49-b6d4-301f-bf62-f591002e4f1a.json
+│   └── usercache.json
+├── settings.gradle
+├── src
+│   ├── client
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── happysadduck
+│   │   │           └── quantumegg
+│   │   │               └── client
+│   │   │                   └── quantum_egg_client_t.java
+│   │   └── resources
+│   └── main
+│       ├── java
+│       │   └── com
+│       │       └── happysadduck
+│       │           └── quantumegg
+│       │               ├── mod_blocks_t.java
+│       │               ├── mod_items_t.java
+│       │               └── quantum_egg_mod_t.java
+│       └── resources
+│           ├── assets
+│           │   └── quantum_egg
+│           │       ├── icon.png
+│           │       └── lang
+│           │           └── zh_cn.json
+│           └── fabric.mod.json
+└── tree.txt
+
+58 directories, 57 files

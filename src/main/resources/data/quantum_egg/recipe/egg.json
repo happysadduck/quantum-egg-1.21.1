@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smelting",
+    "cookingtime": 200,
+    "experience": 0.0,
+    "ingredient": {
+        "item": "quantum_egg:quantum_egg"
+    },
+    "result": {
+        "id": "minecraft:egg",
+        "count": 1
+    }
+}
